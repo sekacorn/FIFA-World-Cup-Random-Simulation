@@ -17,21 +17,17 @@ How to Run
 5) Compile the code by executing the following command:
 
    ```
-   
    javac WorldCupSimulation.java
-   
    ```
    
 6) Run the program with the following command:
 
    ```
-   
    java WorldCupSimulation
-   
    ```
    
    
-Decription
+Description
 ------------------
 The program simulates the World Cup tournament with the following steps:
 --------------------------------------------------------------------
