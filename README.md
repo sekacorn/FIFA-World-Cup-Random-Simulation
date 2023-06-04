@@ -2,7 +2,6 @@
 This is as the name suggests a random simulation of world football competion called the World Cup. 
 
 
-
 How to Run
 ==========
 1)Make sure  you have Java Development Kit (JDK) installed on your machine.
@@ -18,6 +17,8 @@ How to Run
 5) Run the program with the following command:
 
    '''java WorldCupSimulation
+   
+   
    
 Program Description
 ------------------
