@@ -4,23 +4,30 @@ This is as the name suggests a random simulation of world football competion cal
 
 How to Run
 ==========
-1)Make sure  you have Java Development Kit (JDK) installed on your machine.
+1) Make sure your Machine (Computer) turned on  and that you have logged in your user account
 
-2)Download the WorldCupSimulation.java file.
+2) Make sure  you have Java Development Kit (JDK) installed on your computer. If you dont look it up online. Download and install it
+      -If you have just installed it, make sure the environment variables have been updated and set. 
+        If you don't know how to do it no worries, browse the Internet to learn how to do it on your machine. Then, follow Step 3
 
-3)Open a command prompt or terminal and navigate to the directory where the file is saved.
+3) Download the WorldCupSimulation.java file.
 
-4)Compile the code by executing the following command:
+4) Open a command prompt  for Windows Users or terminal for Linux/ Unix users (include MacOS users) and navigate to the directory where the file is saved.
 
-   '''javac WorldCupSimulation.java
+5) Compile the code by executing the following command:
+
+   '''
+   javac WorldCupSimulation.java
+   '''
    
-5) Run the program with the following command:
+6) Run the program with the following command:
 
-   '''java WorldCupSimulation
+   '''
+   java WorldCupSimulation
+   '''
    
    
-   
-Program Description
+Decription
 ------------------
 The program simulates the World Cup tournament with the following steps:
 --------------------------------------------------------------------
