@@ -10,10 +10,11 @@ How to Run
 3)Open a command prompt or terminal and navigate to the directory where the file is saved.
 4)Compile the code by executing the following command:
 
-   --javac WorldCupSimulation.java
+   ''javac WorldCupSimulation.java
+   
 5) Run the program with the following command:
 
-   --java WorldCupSimulation
+   ''java WorldCupSimulation
    
 Program Description
 ------------------
